@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\Testovani verzovani\Pojistenci\Pojistenci\obj\Debug\net8.0\Pojistenci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\Testovani verzovani\Pojistenci\Pojistenci\obj\Debug\net8.0\Pojistenci.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\Testovani verzovani\Pojistenci\Pojistenci\obj\Debug\net8.0\Pojistenci.AssemblyInfo.cs
+C:\Users\Lenovo\source\Testovani verzovani\Pojistenci\Pojistenci\obj\Debug\net8.0\Pojistenci.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\Testovani verzovani\Pojistenci\Pojistenci\bin\Debug\net8.0\Pojistenci.exe
+C:\Users\Lenovo\source\Testovani verzovani\Pojistenci\Pojistenci\bin\Debug\net8.0\Pojistenci.deps.json
+C:\Users\Lenovo\source\Testovani verzovani\Pojistenci\Pojistenci\bin\Debug\net8.0\Pojistenci.runtimeconfig.json
+C:\Users\Lenovo\source\Testovani verzovani\Pojistenci\Pojistenci\bin\Debug\net8.0\Pojistenci.dll
+C:\Users\Lenovo\source\Testovani verzovani\Pojistenci\Pojistenci\bin\Debug\net8.0\Pojistenci.pdb
+C:\Users\Lenovo\source\Testovani verzovani\Pojistenci\Pojistenci\obj\Debug\net8.0\Pojistenci.dll
+C:\Users\Lenovo\source\Testovani verzovani\Pojistenci\Pojistenci\obj\Debug\net8.0\refint\Pojistenci.dll
+C:\Users\Lenovo\source\Testovani verzovani\Pojistenci\Pojistenci\obj\Debug\net8.0\Pojistenci.pdb
+C:\Users\Lenovo\source\Testovani verzovani\Pojistenci\Pojistenci\obj\Debug\net8.0\Pojistenci.genruntimeconfig.cache
+C:\Users\Lenovo\source\Testovani verzovani\Pojistenci\Pojistenci\obj\Debug\net8.0\ref\Pojistenci.dll
